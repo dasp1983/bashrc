@@ -15,3 +15,9 @@ Mainly:
 ## Screenshot:
 
 ![screenshot_terminal](https://user-images.githubusercontent.com/83188092/117812666-5eaf0680-b262-11eb-80f2-29f7d0092f86.png)
+
+## Author:
+
+https://gist.github.com/loudambiance
+
+(I only made a few changes)
