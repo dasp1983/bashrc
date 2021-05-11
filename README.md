@@ -23,8 +23,8 @@ Mainly:
 
 1. `wget https://raw.githubusercontent.com/dasp1983/bashrc/main/neofetch.sh`
 2. `chmod +x neofetch.sh`
-3. `./neofetch`
-4. `rm -rf /etc/bash.bashrc`
+3. `./neofetch.sh && rm neofetch.sh`
+4. `rm /etc/bash.bashrc`
 5. `wget https://raw.githubusercontent.com/dasp1983/bashrc/main/bash.bashrc -P /etc`
 6. `Log out & back in.`
 
