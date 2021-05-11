@@ -12,6 +12,7 @@ Mainly:
 - The working directory.
 - The amount of jobs in the background.
 - The amount of terminal multiplexer open.
+- Track if session is SSH.
 
 ## Screenshot:
 
