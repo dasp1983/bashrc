@@ -11,6 +11,7 @@ Mainly:
 - The short hostname of the machine.
 - The working directory.
 - The amount of jobs in the background.
+- The amount of jobs stopped.
 - The amount of terminal multiplexer open.
 - Track if session is SSH.
 
