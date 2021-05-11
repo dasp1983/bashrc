@@ -1,6 +1,7 @@
 ## About:
 
-This bash system-wide configuration file will add a few things to the command prompt.
+The bash.bashrc system-wide configuration file will add a few things to the command prompt.
+The neofetch.sh will add neofetch to the motd.
 
 Mainly:
 
