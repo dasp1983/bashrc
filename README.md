@@ -21,8 +21,8 @@ Mainly:
 
 ## How-To
 
-1. 'chmod +x neofetch.sh'
-2. './neofetch'
+1. `chmod +x neofetch.sh`
+2. `./neofetch`
 
 ## Author:
 
