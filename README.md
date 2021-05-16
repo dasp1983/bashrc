@@ -21,7 +21,7 @@ Mainly:
 
 ## How-To:
 
-1. `sudo apt get neofetch`
+1. `sudo apt install neofetch`
 2. `wget https://raw.githubusercontent.com/dasp1983/bashrc/main/neofetch.sh`
 3. `chmod +x neofetch.sh`
 4. `./neofetch.sh && rm neofetch.sh`
