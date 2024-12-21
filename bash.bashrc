@@ -178,7 +178,7 @@ function promptcmd()
         fi
         # Host Section
         if [ $eHOST -eq 1 ] || [ $lSSH_FLAG -eq 1 ] ; then   # Host is optional only without SSH
-                PS1="${PS1}${cUHS}${UHS}${cHST}\h${sesClr}]${cLINES}\342\224\200"
+                PS1="${PS1}${cUHS}${UHS}${cHST}\H${sesClr}]${cLINES}\342\224\200"
         else
                 PS1="${PS1}${sesClr}]${cLINES}\342\224\200"
         fi
